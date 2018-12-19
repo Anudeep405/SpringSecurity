@@ -34,7 +34,7 @@ This will likely fail. You need to configure this application to work with Okta 
 
 You will need to create an OpenID Connect Application in Okta to get your values to perform authentication. 
 
-Log in to your Okta Developer account (or [sign up](https://developer.okta.com/signup/) if you don’t have an account) and navigate to **Applications** > **Add Application**. Click **SPA**, click **Next**, and give the app a name you’ll remember. Click **Done** and copy the `clientId` into `src/main/resources/application.properties`. 
+Log in to your Okta Developer account (or [sign up](https://developer.okta.com/signup/) if you don’t have an account) and navigate to **Applications** > **Add Application**. Click **Service**, click **Next**, and give the app a name you’ll remember. Click **Done** and copy the `clientId` into `src/main/resources/application.properties`. 
 
 ```yaml                            
 okta:  

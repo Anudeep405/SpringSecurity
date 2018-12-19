@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>net.dovale.okta</groupId>
-	<artifactId>secure_rest_api</artifactId>
+	<artifactId>secure-rest-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
